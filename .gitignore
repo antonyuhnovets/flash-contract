@@ -20,3 +20,17 @@ rad.json
 *.flf
 #Test results file
 TestResults.xml
+build
+
+node_modules
+
+.env
+
+.history
+
+package-lock.json
+dbg.project.json
+settings.json
+contracts/dev
+yarn.lock
+cache/
